@@ -1,0 +1,4 @@
+ofxGui
+ofxCv
+ofxFaceTracker
+ofxJSON
